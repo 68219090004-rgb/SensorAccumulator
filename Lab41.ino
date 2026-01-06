@@ -1,4 +1,4 @@
-/* LAB 4..1 4x4 */
+/* LAB 4.1 4x4 */
 //https://app.cirkitdesigner.com/project/985938ae-936d-49e2-bd3e-f1a974f83be1
 
 #include <Keypad.h>
