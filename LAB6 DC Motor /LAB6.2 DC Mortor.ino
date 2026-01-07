@@ -1,5 +1,5 @@
 /* 6.2 */
-//https://app.cirkitdesigner.com/project/24d43e01-3511-4f19-9623-bf348aee1b0d
+//https://app.cirkitdesigner.com/project/5c763d1d-ade7-4ed2-b840-9b1249eeae34
 
 #define motorR1_Pin 2 // in4 to d2
 #define motorR2_Pin 3 // in4 to d3
